@@ -8,7 +8,7 @@ import threading
 import time  # Added to handle periodic task execution
 
 
-keep_alive()
+
 
 # insert your Telegram bot token here
 bot = telebot.TeleBot('6436450622:AAF7CmhqtRIxLKQ8HafyAHi6cPPE-2b2YKk')
