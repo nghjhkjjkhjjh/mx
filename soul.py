@@ -203,7 +203,7 @@ def send_welcome(message):
     buttons = [KeyboardButton(option) for option in options]
     markup.add(*buttons)
 
-    bot.send_message(
+    bot.send_message(Initiate Attack 
         message.chat.id,
         f"👊 *Welcome to Command, Agent. Choose your directive.* Managed by {USERNAME}",
         reply_markup=markup,
