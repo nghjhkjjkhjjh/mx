@@ -1,4 +1,4 @@
-# script by @kaushik_oo7
+
 
 import telebot
 import subprocess
@@ -6,7 +6,7 @@ import datetime
 import os
 import threading
 import time  # Added to handle periodic task execution
-from keep_alive import keep_alive
+
 
 keep_alive()
 
